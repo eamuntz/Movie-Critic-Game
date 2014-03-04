@@ -38,6 +38,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'south',
     'movies',
+    'scorecard',
 )
 
 MIDDLEWARE_CLASSES = (
